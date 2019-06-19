@@ -1,12 +1,13 @@
 Answer the following questions for each of the data structures you implemented as part of this project.
+Reference: https://wiki.python.org/moin/TimeComplexity
 
 ## Queue
 
-1. What is the runtime complexity of `enqueue`?
+1. What is the runtime complexity of `enqueue`? Python append() to list has constant time O(1)
 
-2. What is the runtime complexity of `dequeue`?
+2. What is the runtime complexity of `dequeue`? Python pop() list has constant time O(1)
 
-3. What is the runtime complexity of `len`?
+3. What is the runtime complexity of `len`? Python get len() of list has constant time O(1)
 
 ## Binary Search Tree
 
